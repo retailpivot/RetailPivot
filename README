@@ -1,1 +1,22 @@
-First Fileo
+Partes de Retail Pivot
+Front End
+React
+
+Backend
+Python
+MySQL
+
+Sección Inventario
+
+Sección Integraciones
+  AirTable
+  ERPNext
+  eCommerce Platforms
+    -Woocommerce
+    -Shopify
+    -PrestaShop
+  LogisticPlatform
+    -ShipWire
+  FinancialPlatform
+    -Stripe
+    -ERPNext
